@@ -1,6 +1,6 @@
-# 🏭 CoreInventory – Modular Inventory Management System
+# CoreInventory – Modular Inventory Management System
 
-> A production-quality, full-stack Inventory Management System that digitizes warehouse operations with real-time stock tracking, multi-warehouse support, and complete audit trails.
+> A production-quality, full-stack Inventory Management System that digitizes warehouse operations with real-time stock tracking, multi-warehouse support, and complete audit trails. 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Problem Statement
+## 📋 Problem Statement (For Odoo X Indus University Hackathon)
 
 Businesses managing physical inventory face critical challenges:
 - **Manual Tracking**: Paper registers and spreadsheets lead to errors, delays, and data loss
@@ -254,10 +254,8 @@ Stock: -20
 
 ---
 
-## 📄 License
 
-MIT License – Built for [Hackathon Name] 2025
 
 ---
 
-**Built with ❤️ by the CoreInventory Team**
+**Built with ❤️ by the Token Limit Team**
